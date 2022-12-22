@@ -1,0 +1,23 @@
+{
+    "apiVersion": "1.2",
+    "version": "1.0.0",
+    "name": "Weather",
+    "id": "sfire-mods-weatherwidget",
+    "icon": "weather-mod-icon.svg",
+    "dataViewDefinition": {
+        "axes": [
+            {
+                "name": "City ID",
+                "mode": "categorical",
+                "placement": "top"
+            }
+        ],
+        "colorAxis": { "mode": "categorical" }
+    },
+    "files": ["index.html", "main.css", "main.js","weather-mod-icon.svg"],
+    "externalResources": [
+        "https://api.openweathermap.org/data/2.5/weather",
+        "https://openweathermap.org/img/wn/",
+        "https://api.openweathermap.org/data/2.5/onecall"
+    ]
+}
