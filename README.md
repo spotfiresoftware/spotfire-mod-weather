@@ -4,17 +4,17 @@ Get live weather information and 7 days forecasts in Spotfire. In addition to in
 
 Can be used in a variety of analytical dashboards across numerous industry domains like aviation, agriculture, logistics, manufacturing, oil & gas, transportation etc. to provide current weather conditions.
 
-All source code for the mod example can be found in the `src` folder.
+## Installation & Use
 
-## Prerequisites
-These instructions assume that you have [Node.js](https://nodejs.org/en/) (which includes npm) installed.
+The [Wiki](https://github.com/tibco/spotfire-mod-weather/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
-## How to get started (with development server)
-- Open a terminal at the location of this example.
-- Run `npm install`. This will install necessary tools. Run this command only the first time you are building the mod and skip this step for any subsequent builds.
-- Run `npm run server`. This will start a development server.
-- Start editing, for example `src/index.js`.
-- In Spotfire, follow the steps of creating a new mod and connecting to the development server.
+## Building the Project
 
-## Working without a development server
-- In Spotfire, follow the steps of creating a new mod and then browse for, and point to, the _manifest_ in the `src` folder.
+In a terminal window:
+- `npm install`
+- `npm run server`
+
+## About Mods for TIBCO Spotfire®
+-   [TIBCO Community Exchange](https://community.tibco.com/s/global-search/%40uri#q=mod%20for%20tibco%20spotfire&t=Exchange&sort=date%20descending): A safe and trusted place to discover ready-to-use mods
+-   [Developer documentation](https://tibcosoftware.github.io/spotfire-mods/docs/): Introduction and tutorials for mods developers
+-   [Mods examples made by TIBCO](https://github.com/TIBCOSoftware/spotfire-mods/releases/latest): A public repository for examples projects
