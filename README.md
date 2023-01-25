@@ -8,7 +8,7 @@ Can be used in a variety of analytical dashboards across numerous industry domai
 
 ## Installation & Use
 
-The [Wiki](https://github.com/tibco/spotfire-mod-weather/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
+The [Wiki](https://github.com/TIBCOSoftware/spotfire-mod-weather/wiki) contains step-by-step instruction on how to install and use this Mod in TIBCO Spotfire®.
 
 ## Building the Project
 
