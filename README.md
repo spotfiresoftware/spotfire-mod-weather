@@ -1,6 +1,6 @@
 # Weather Mod for TIBCO Spotfire®
 
-<img src="https://community.tibco.com/servlet/rtaImage?eid=ka64z0000008Roa&feoid=00N4z000003259u&refid=0EM4z000005MpSK" alt="List Mod for TIBCO Spotfire®" width="60%">
+<img src="https://community.tibco.com/servlet/rtaImage?eid=ka64z0000008Rsr&feoid=00N4z000003259u&refid=0EM4z000005MpSK" alt="List Mod for TIBCO Spotfire®" width="60%">
 
 Get live weather information and 7 days forecasts in Spotfire. In addition to instant weather information for a location, this visualization also provides toggleable temperature (°C or °F) in local time and current weather conditions like wind, humidity, visibility and weather description.
 
