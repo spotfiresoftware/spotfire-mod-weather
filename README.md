@@ -1,5 +1,7 @@
 # Weather Mod for TIBCO Spotfire®
 
+<img src="assets/weather.png" width="60%"/>
+
 Get live weather information and 7 days forecasts in Spotfire. In addition to instant weather information for a location, this visualization also provides toggleable temperature (°C or °F) in local time and current weather conditions like wind, humidity, visibility and weather description.
 
 Can be used in a variety of analytical dashboards across numerous industry domains like aviation, agriculture, logistics, manufacturing, oil & gas, transportation etc. to provide current weather conditions.
